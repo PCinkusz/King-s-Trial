@@ -139,6 +139,9 @@ This project is for **educational purposes** and is distributed under the [MIT L
 
 ![Zrzut ekranu 2025-01-17 230640](https://github.com/user-attachments/assets/cc5e8bde-4996-460b-ac40-4cdc5d1e105f)
 
+![output-onlinepngtools](https://github.com/user-attachments/assets/0f89209c-d623-4f7f-b6b4-a620ce83e756)
 
 
 --- 
+
+Enjoy the challenge of King's Trial and strive to beat your best time! 🏆
