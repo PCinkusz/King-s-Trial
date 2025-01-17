@@ -133,9 +133,8 @@ This project is for **educational purposes** and is distributed under the [MIT L
 
 ## **Screenshots**
 
-
-![Zrzut ekranu 2025-01-17 230640 (1)](https://github.com/user-attachments/assets/60a8ca05-19c1-4ad0-9d48-cd5d8cf7f502)
-![Zrzut ekranu 2025-01-17 230647 (1)](https://github.com/user-attachments/assets/709a358d-f6e1-4b02-b8c2-922625cded39)
+![Zrzut ekranu 2025-01-17 230640 (1) (1)](https://github.com/user-attachments/assets/f12fb1eb-e673-404a-93b2-95538daabd31)
+![Zrzut ekranu 2025-01-17 230647 (1) (1)](https://github.com/user-attachments/assets/d6e1a803-5de6-41eb-9fa5-6516ff4e15f2)
 ![entire_map](https://github.com/user-attachments/assets/6e90469c-8341-4775-a98f-3e447ca1e0c1)
 
 
