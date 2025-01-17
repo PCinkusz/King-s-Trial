@@ -1,4 +1,3 @@
-Here's a detailed **README.md** file for your game, formatted for a GitHub repository:
 
 ---
 
